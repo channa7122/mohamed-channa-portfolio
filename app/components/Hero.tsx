@@ -361,7 +361,7 @@ export default function Hero() {
                 }}
               >
                 <Image
-                  src="/profile.jpg"
+                  src="/profile.png"
                   alt="Mohamed Channa — Data & AI Engineer"
                   fill
                   sizes="(max-width: 768px) 220px, (max-width: 1280px) 28vw, 320px"
