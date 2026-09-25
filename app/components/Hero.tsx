@@ -246,7 +246,7 @@ export default function Hero() {
                 View Experience
               </a>
               <a
-                href="/Mohamed_Channa_CV.pdf"
+                href="/cv.pdf"
                 download
                 className="btn-outline"
               >
